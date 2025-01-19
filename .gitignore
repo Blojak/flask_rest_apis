@@ -1,0 +1,6 @@
+venv
+archi*
+*archi*
+.*
+!.gitignore
+!.flaskenv
